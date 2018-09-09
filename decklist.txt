@@ -1,31 +1,26 @@
-1 Liliana, Death's Majesty
-2 Arguel's Blood Fast
-3 Doomfall
-4 Vraska's Contempt
-4 Fatal Push
-2 Essence Scatter
-1 Commit / Memory
-2 Censor
-2 Torrential Gearhulk
-3 The Scarab God
-2 Hostage Taker
-4 Glint-Sleeve Siphoner
-4 Champion of Wits
-6 Swamp
-5 Island
-3 Field of Ruin
-4 Fetid Pools
-4 Drowned Catacomb
-4 Aether Hub
+2 Westvale Abbey
+4 Hanweir Militia Captain
+4 Fortified Village
+4 Thalia's Lieutenant
+4 Thraben Inspector
+1 Port Town
+4 Reflector Mage
+2 Prairie Stream
+3 Canopy Vista
+3 Archangel of Tithes
+3 Kytheon, Hero of Akros
+2 Anafenza, Kin-Tree Spirit
+4 Collected Company
+4 Dromoka's Command
+1 Hidden Dragonslayer
+4 Knight of the White Orchid
+11 Plains
+
 Sideboard
-1 Doomfall
-2 Walking Ballista
-1 Vizier of Many Faces
-1 Spell Pierce
-1 Sorcerous Spyglass
-1 Negate
-1 Moment of Craving
-2 Jace's Defeat
-2 Infernal Reckoning
-1 Essence Extraction
-2 Duress
+1 Archangel Avacyn
+1 Sigarda, Heron's Grace
+3 Always Watching
+2 Town Gossipmonger
+3 Gideon, Ally of Zendikar
+3 Vryn Wingmare
+2 Hidden Dragonslayer
