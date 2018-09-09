@@ -1,7 +1,4 @@
 # Simple python script to create a list of cards needed.
-# Export your collection to the same directory as collection.txt
-# Save a decklist as decklist.txt
-# Script creates a rental.txt with the cards you need
 collectionCards, decklistCards = {}, {}
 
 with open('collection.txt', 'r') as collectionFile, open('decklist.txt', 'r') as deckFile, open('rental.txt', 'w') as rentalFile:
@@ -21,5 +18,5 @@ with open('collection.txt', 'r') as collectionFile, open('decklist.txt', 'r') as
 
     rentalCards = { k : decklistCards[k] for k in set(decklistCards) - set(collectionCards) }
 
-    for k, v in decklistCards.items():
+    for k, v in rentalCards.items():
       rentalFile.write(str(v) + " " + k + "\n")
