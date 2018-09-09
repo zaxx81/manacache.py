@@ -7,7 +7,7 @@ with open('collection.txt', 'r') as collectionFile, open('decklist.txt', 'r') as
         collectionCards[line.rstrip().split(" ", 1)[1]] = int(line.split()[0])
 
     for line in deckFile:
-      if "Sideboard" not in line:
+      if "Sideboard" not in line and line not in ['\n', '\r\n']:
         data = line.rstrip().split(" ", 1)
         name, qty = data[1], int(data[0])
         
