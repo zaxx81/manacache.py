@@ -15,7 +15,6 @@
 1 Hidden Dragonslayer
 4 Knight of the White Orchid
 11 Plains
-
 Sideboard
 1 Archangel Avacyn
 1 Sigarda, Heron's Grace
