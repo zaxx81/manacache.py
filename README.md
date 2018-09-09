@@ -13,7 +13,7 @@ Python script for MTGO players. This script compares the cards in a decklist.txt
 3. Run the manacache.py script
 4. A file named rental.txt is created with the cards you need
 
-## Example of an MTGO decklist text file
+## Example of a Properly Formatted MTGO decklist File
 2 Westvale Abbey  
 4 Hanweir Militia Captain  
 4 Fortified Village  
